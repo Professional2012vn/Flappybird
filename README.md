@@ -1,2 +1,2 @@
 # Flappybird
-Fappybird for Windows OS
+Game Fappybird on Windows OS
